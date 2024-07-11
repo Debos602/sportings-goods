@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Adidas Football",
+    "category_id": 1,
+    "stock": 10,
+    "brand": "Adidas",
+    "rating": 4.5,
+    "description": "Professional soccer ball with excellent grip.",
+    "price": 29.99,
+    "image": "https://i.ibb.co/MGVZwvj/addidas-football.jpg"
+  },
+  {
+    "name": "Nike Football",
+    "category_id": 1,
+    "stock": 20,
+    "brand": "Nike",
+    "rating": 4.0,
+    "description": "High-quality basketball for indoor and outdoor use.",
+    "price": 24.99,
+    "image": "https://i.ibb.co/9Z0ZmYq/nike-football.jpg"
+  },
+  {
+    "name": "Wilson Football",
+    "category_id": 1,
+    "stock": 15,
+    "brand": "Wilson",
+    "rating": 3.5,
+    "description": "Lightweight tennis ball for beginners.",
+    "price": 49.99,
+    "image": "https://i.ibb.co/8mN5mPS/Wilson-Football.webp"
+  },
+  {
+    "name": "Gaiam Yoga",
+    "category_id": 2,
+    "stock": 12,
+    "brand": "Gaiam",
+    "rating": 4.1,
+    "description": "Non-slip yoga mat for all types of yoga.",
+    "price": 19.99,
+    "image": "https://i.ibb.co/bQtzgjp/Gaiam-Yoga.jpg"
+  },
+  {
+    "name": "Fitbit Mats",
+    "category_id": 2,
+    "stock": 3,
+    "brand": "Fitbit",
+    "rating": 4.3,
+    "description": "Better yoga thinner mats health metrics.",
+    "price": 99.99,
+    "image": "https://i.ibb.co/b2jLgcJ/Fitbit-Mats.webp"
+  },
+  {
+    "name": "Bowflex Mats",
+    "category_id": 2,
+    "stock": 9,
+    "brand": "Bowflex",
+    "rating": 3.9,
+    "description": "Adjustable thicker mats for yoga training.",
+    "price": 149.99,
+    "image": "https://i.ibb.co/vXRFtvp/Bowflex-Mats.jpg"
+  },
+  {
+    "name": "Asics Jersey",
+    "category_id": 3,
+    "stock": 5,
+    "brand": "Asics",
+    "rating": 5.0,
+    "description": "Comfortable running jersey with great support.",
+    "price": 79.99,
+    "image": "https://i.ibb.co/NSZ58Wc/Asics-Jersey.jpg"
+  },
+  {
+    "name": "Mgs Shorts",
+    "category_id": 3,
+    "stock": 7,
+    "brand": "Mgs",
+    "rating": 4.8,
+    "description": "Comfortable sports for nice support.",
+    "price": 199.99,
+    "image": "https://i.ibb.co/KzWGng8/Mgs-shorts.jpg"
+  },
+  {
+    "name": "Nike Shorts",
+    "category_id": 3,
+    "stock": 5,
+    "brand": "Nike",
+    "rating": 4.0,
+    "description": "High-quality running shorts for comfort and performance.",
+    "price": 24.99,
+    "image": "https://i.ibb.co/hf5w6RV/Nike-Shorts.jpg"
+  },
+  {
+    "name": "Callaway Cricket Ball",
+    "category_id": 4,
+    "stock": 20,
+    "brand": "Callaway",
+    "rating": 4.6,
+    "description": "Set of cricket balls for all skill levels.",
+    "price": 399.99,
+    "image": "https://i.ibb.co/d4gxV9t/Callaway-Cricket-ball.jpg"
+  },
+  {
+    "name": "Titleist Cricket Ball",
+    "category_id": 4,
+    "stock": 14,
+    "brand": "Titleist",
+    "rating": 4.4,
+    "description": "High-performance cricket balls for precision.",
+    "price": 49.99,
+    "image": "https://i.ibb.co/HN9XD5G/Titleist-Cricket-Ball.jpg"
+  },
+  {
+    "name": "Kuka-bura Ball",
+    "category_id": 4,
+    "stock": 18,
+    "brand": "TaylorMade",
+    "rating": 4.7,
+    "description": "Super coach swinger ball.",
+    "price": 19.99,
+    "image": "https://i.ibb.co/hmpBs6z/Kokabura-ball.jpg"
+  },
+  {
+    "name": "Wilson Racket",
+    "category_id": 5,
+    "stock": 15,
+    "brand": "Wilson",
+    "rating": 3.5,
+    "description": "Lightweight tennis racket for beginners.",
+    "price": 49.99,
+    "image": "https://i.ibb.co/S0RY9sN/Wilson-Racket.jpg"
+  },
+  {
+    "name": "Yonex Racket",
+    "category_id": 5,
+    "stock": 12,
+    "brand": "Yonex",
+    "rating": 4.5,
+    "description": "High-quality badminton racket for professional players.",
+    "price": 59.99,
+    "image": "https://i.ibb.co/DkcNJDR/Yonex-Racket.jpg"
+  },
+  {
+    "name": "Prince Racket",
+    "category_id": 5,
+    "stock": 8,
+    "brand": "Prince",
+    "rating": 4.3,
+    "description": "Graphite squash racket for enhanced performance.",
+    "price": 69.99,
+    "image": "https://i.ibb.co/cN202TR/Prince-Racket.jpg"
+  },
+  {
+    "name": "Asics Shoes",
+    "category_id": 6,
+    "stock": 5,
+    "brand": "Asics",
+    "rating": 5.0,
+    "description": "Premium running shoes with exceptional cushioning.",
+    "price": 129.99,
+    "image": "https://i.ibb.co/Vt9HMsZ/Asics-Shoes.jpg"
+  },
+  {
+    "name": "Nike Shoes",
+    "category_id": 6,
+    "stock": 7,
+    "brand": "Nike",
+    "rating": 4.8,
+    "description": "Lightweight running shoes for everyday training.",
+    "price": 119.99,
+    "image": "https://i.ibb.co/c2Zxn67/Nike-Shoes.jpg"
+  },
+  {
+    "name": "New Balance",
+    "category_id": 6,
+    "stock": 6,
+    "brand": "New Balance",
+    "rating": 4.7,
+    "description": "Comfortable running shoes with fresh foam cushioning.",
+    "price": 99.99,
+    "image": "https://i.ibb.co/K5vbkN1/New-Balance.jpg"
+  }
+]
