@@ -1,0 +1,68 @@
+[
+  {
+    "category_id": 1,
+    "name": "Adidas Football",
+    "category": "Football",
+    "stock": 10,
+    "brand": "Adidas",
+    "rating": 4.5,
+    "description": "Professional soccer ball with excellent grip.",
+    "price": 29.99,
+    "image": "https://i.ibb.co/6NGjKNK/addidas-football-removebg-preview.png"
+  },
+  {
+    "category_id": 2,
+    "name": "Gaiam Yoga",
+    "category": "Yoga",
+    "stock": 12,
+    "brand": "Gaiam",
+    "rating": 4.1,
+    "description": "Non-slip yoga mat for all types of yoga.",
+    "price": 19.99,
+    "image": "https://i.ibb.co/gV0jmnL/Gaiam-Yoga-removebg-preview.png"
+  },
+  {
+    "category_id": 3,
+    "name": "Asics Jersey",
+    "category": "Running",
+    "stock": 5,
+    "brand": "Asics",
+    "rating": 5.0,
+    "description": "Comfortable running jersey with great support.",
+    "price": 79.99,
+    "image": "https://i.ibb.co/DfPQ95J/Asics-Jersey-removebg-preview.png"
+  },
+  {
+    "category_id": 4,
+    "name": "Callaway Cricket Ball",
+    "category": "Cricket",
+    "stock": 20,
+    "brand": "Callaway",
+    "rating": 4.6,
+    "description": "Set of cricket balls for all skill levels.",
+    "price": 399.99,
+    "image": "https://i.ibb.co/QjbvtJ6/Callaway-Cricket-ball-removebg-preview.png"
+  },
+  {
+    "category_id": 5,
+    "name": "Wilson Racket",
+    "category": "Tennis",
+    "stock": 15,
+    "brand": "Wilson",
+    "rating": 3.5,
+    "description": "Lightweight tennis racket for beginners.",
+    "price": 49.99,
+    "image": "https://i.ibb.co/8mmfct6/Wilson-Racket-removebg-preview.png"
+  },
+  {
+    "category_id": 6,
+    "name": "Asics Shoes",
+    "category": "Running Shoes",
+    "stock": 5,
+    "brand": "Asics",
+    "rating": 5.0,
+    "description": "Premium running shoes with exceptional cushioning.",
+    "price": 129.99,
+    "image": "https://i.ibb.co/hKS12M8/Asics-Shoes-removebg-preview.png"
+  }
+]
