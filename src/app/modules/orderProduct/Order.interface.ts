@@ -1,9 +1,12 @@
 export interface TOrderItem {
   id: string;
+
   name: string;
   price: number;
   stock: number;
 }
+
+
 
 export interface TUserDetails {
   name: string;

@@ -49,4 +49,20 @@ const createOrderInDb = async (req: Request, res: Response) => {
   }
 };
 
-export const OrderController = { createOrderInDb };
+const getAllOrderFromDb = async (req: Request, res: Response) => {
+  try {
+    const orders = await OrderModel.find({}).populate('userDetails');
+    res.status(200).json({
+      success: true,
+      message: 'All Orders are retrieved Successfully',
+      data: orders,
+    });
+  } catch (err) {
+    res.status(500).json({
+      success: false,
+      message: 'An error occurred while creating the product',
+    });
+  }
+};
+
+export const OrderController = { createOrderInDb, getAllOrderFromDb };

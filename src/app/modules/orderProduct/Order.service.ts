@@ -13,6 +13,20 @@ const createOrder = async (orderData: TOrder) => {
   }
 };
 
+
+const getOrders = async () => {
+  try {
+    const result = await OrderModel.find();
+    return result;
+  } catch (error) {
+    console.error('Error fetching orders:', error); // Log the error for debugging
+    throw error; // Re-throw the error for controller to catch
+  }
+};
+
+
 export const OrderService = {
   createOrder,
+  getOrders
 };
+

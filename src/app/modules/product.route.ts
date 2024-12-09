@@ -8,7 +8,7 @@ router.post('/create-product', AllProductController.createProduct);
 router.get('/all-product', AllProductController.getAllProductFromDb);
 router.get('/all-product/:id', AllProductController.getAllSingleProductsFromDb);
 router.get(
-  '/category/:categoryId',
+  '/all-products/:categoryId',
   AllProductController.getAllCategoryProductsFromDb,
 );
 
